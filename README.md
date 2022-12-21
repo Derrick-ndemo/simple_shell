@@ -1,7 +1,7 @@
 # 0x16. C - Simple Shell
 
 ##### Concepts
-*For this project, we expect you to look at these concepts:
+*For this project, we expect you to look at these concepts:*
 - [Everything you need to know to start coding your own shell](https://alx-intranet.hbtn.io/concepts/64)
 - [Approaching a project](https://alx-intranet.hbtn.io/concepts/350)
 
@@ -11,7 +11,7 @@ Write a simple UNIX command interpreter.
 ![*"The Gates of Shell", by [Spencer Cheng](https://alx-intranet.hbtn.io/rltoken/AtYRSM03vJDrko9xHodxFQ), featuring [Julien Barbier](https://alx-intranet.hbtn.io/rltoken/-ezXgcyfhc8qU1DeUInLUA)*](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 ## Resources
-**Read or watch:
+**Read or watch:**
 - [Unix shell](https://alx-intranet.hbtn.io/rltoken/f0YU9TAhniMXWlSXtb64Yw)
 - [Thompson shell](https://alx-intranet.hbtn.io/rltoken/7LJOp2qP7qHUcsOK2-F3qA)
 - [Ken Thompson](https://alx-intranet.hbtn.io/rltoken/wTSu31ZP1f7fFTJFgRQC7w)
@@ -60,7 +60,7 @@ The Contributors to this project are:
 
 ## More Info
 ### Output
-- Unless specified otherwise, your program *must have the exact same output* as `sh` (`/bin/sh`) as well as the exact same error output.
+- Unless specified otherwise, your program **must have the exact same output** as `sh` (`/bin/sh`) as well as the exact same error output.
 - The only difference is when you print an error, the name of the program must be equivalent to your `argv[0]` (See below)
 
 Example of error with `sh`:
